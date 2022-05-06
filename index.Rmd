@@ -1,0 +1,68 @@
+--- 
+title: "Managing Interoperability of Healthcare Data for Decision Analytics and Research"
+author: "James R. Campbell, MD; James C. McClay, MD, MS; Carol R. Geary, PhD, RN, MBA; W. Scott Campbell, PhD; A. Jerrod Anzalone, MS"
+date: "Tuesday, May 24, 2022 8:00 AM - 12:30 PM CDT"
+site: bookdown::bookdown_site
+documentclass: journal
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This pamphlet provides background information, references, and documentation
+  for materials covered in this workshop.
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+Abstract
+==================
+
+This four-hour workshop for the advanced participant will promote interoperability and analytics in healthcare datamarts being developed and implemented for decision support, research and public health. It will guide the participant in implementing the guidelines of the ONC Interoperability Standards Advisory(ISA). The workshop team will employ their research and experience with HL7 and SNOMED CT to demonstrate the integration of SNOMED CT, LOINC and RxNORM as domain ontologies integrated with FHIR resources. Using a series of use cases taken from implementation of research network datamarts, they will present and discuss the relevant ISA specifications, and the associated ontology standards, some being developed at Nebraska. For each use case they will highlight any ambiguities in the ONC specifications and discuss the decisions to be made relative to deploying the semantics of the reference domain standards. They will present resources for managing and implementing relevant ONC sanctioned ontologies within the ISA model, including an integrated ontology of SNOMED-LOINC-RXNORM developed and published as terminology resources by Nebraska. Special attention will be focused on addressing problem areas of translational research that require integration of reference domain standards to bridge laboratory medicine, pathology, microbiology, genomics and patient phenomics. Each use case will be accompanied by demonstration of the data analytic utility of ontologies for extraction of meaningful knowledge from the EHR. Participants will conclude the workshop with an understanding of and access to a set of open source resources and tools for binding, integrating and maintaining the ontologies at their own institutions.
+
+Learning Objectives
+------------------
+
+After participating in this session the learner should be better able to:
+
+* Describe and discuss features of an interoperable data model compliant with the 2021 ONC Interoperability Standards Advisory for EHR core data domains
+
+* Understand the semantic scope, strengths and weaknesses and tooling for terminology standards: SNOMED CT, LOINC, RxNorm, NDC, (CPT-4, ICD-10-CM/PCS, CVX)
+
+* Identify and manage knowledge gaps present in domain ontologies in support logical integration of ontologies
+
+* List resources and tools of use in deploying, maintaining and updating ONC interoperability standards
+
+
+About the Presenters
+------------------
+
+**James R. Campbell, MD**
+
+DESCRIPTION
+
+![](/Users/alfredanzalone/AMIA_Workshop_May_2022/assets/biography/jamescampbell.jpeg)
+
+James C. McClay, MD, MS
+
+Carol R. Geary, PhD, RN, MBA
+
+W. Scott Campbell, PhD
+
+A. Jerrod Anzalone, MS, PhD(c)
+
+
+## Preview book
+
+As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
+
+```{r eval=FALSE}
+bookdown::serve_book()
+```
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
