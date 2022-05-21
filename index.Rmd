@@ -40,20 +40,51 @@ About the Presenters
 
 DESCRIPTION
 
-![](/Users/alfredanzalone/AMIA_Workshop_May_2022/assets/biography/jamescampbell.jpeg)
+```{r jrc, fig.cap='James R. Campbell',echo=FALSE, out.width='50%', fig.align='center'}
+knitr::include_graphics("assets/biography/jamescampbell.png")
+```
 
-James C. McClay, MD, MS
 
-Carol R. Geary, PhD, RN, MBA
+**James C. McClay, MD, MS**
+
+James McClay, MD, MS, has over thirty years of clinical, informatics, and research experience as an Emergency Physician. He recently became the Chief Research Informatics Officer at the University of Missouri. Prior to this role, he was principal investigator for the University of Nebraska Clinical Research Analytics Environment (CRANE), director of the Great Plains IDeA Clinical and Translational Research Center Biomedical Informatics Core, and chaired the University of Nebraska Medical Center (UNMC) Biomedical Informatics Graduate Degree Program. His work focused on developing and operationalizing evidence generation pipelines for learning health systems. Dr. McClay is a long-standing Health Level Seven (HL7) participant as a workgroup chair and a clinical leader in the development of FHIR specifications.
+
+```{r jcm, fig.cap='James C. McClay',echo=FALSE, out.width='50%', fig.align='center'}
+knitr::include_graphics("assets/biography/jim_mcclay.jpeg")
+```
+**Carol R. Geary, PhD, RN, MBA**
+
+Carol Geary, PhD, RN, MBA, is a nurse researcher who began her focus on use of structured electronic health record research during postdoctoral study with Dr. McClay. She spends much of her time focused on developing and instituting infrastructure necessary to support such usage. She has recently become the UNMC PCORnet Principal Investigator, building upon previous experience as Patient Engagement Officer. In this context, she aims to enhance availability and usability of structured electronic health data in nursing research.
+
+```{r crg, fig.cap='Carol R. Geary',echo=FALSE, out.width='50%', fig.align='center'}
+knitr::include_graphics("assets/biography/carol_geary.jpeg")
+```
 
 W. Scott Campbell, PhD
 
-A. Jerrod Anzalone, MS, PhD(c)
+Scott Campbell, PhD, MBA is a tenured, associate professor in the Department of Pathology and Microbiology at the University of Nebraska Medical Center (UNMC) in Omaha, Nebraska, USA.  He is also the Director of Informatics for the Nebraska Public Health Laboratory and the Sr. Director of Research Information Technologies for UNMC. Dr. Campbell specializes in clinical informatics with special emphasis in cancer pathology and microbiology.      
 
+The development of SNOMED CT concept expressions for use in cancer synoptic reporting which includes biomarker and next generation sequencing data comprises significant aspects of Dr. Campbell’s research efforts. He currently serves as the Chair of the Cancer Synoptic Reporting Working Group for SNOMED International which is creating the necessary knowledge representation and concepts for the SNOMED CT international release for use in structured cancer reporting. 
 
-## Preview book
+```{r wsc, fig.cap='W. Scott Campbell',echo=FALSE, out.width='50%', fig.align='center'}
+knitr::include_graphics("assets/biography/scott_campbell.jpeg")
+```
 
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
+A. Jerrod Anzalone, MS
+
+Jerrod Anzalone, MS, is a PhD candidate in biomedical informatics and works as a clinical research informatics specialist for the University of Nebraska Medical Center (UNMC). His research interests are in applied clinical informatics, the secondary analysis of healthcare data for research, and the maintenance of medical terminology.. Over the past two years, he has worked heavily in the National COVID Cohort Collaborative (N3C), focusing on rural populations, immunosuppresed/compromised persons, and data quality issues in multi-center studies.
+
+```{r aja, fig.cap='A. Jerrod Anzalone',echo=FALSE, out.width='50%', fig.align='center'}
+knitr::include_graphics("assets/biography/jerrodanzalone.jpg")
+```
+
+## Learn More
+
+To learn more about the work done by this research team on terminology development, please visit: 
+
+* [Nebraska Lexicon](https://www.unmc.edu/pathology-research/bioinformatics/campbell/tdc.html)
+
+* [University of Nebraska Medical Center's Clinical Research Analytics Environment GitHub](https://github.com/UNMC-CRANE)
 
 ```{r eval=FALSE}
 bookdown::serve_book()
