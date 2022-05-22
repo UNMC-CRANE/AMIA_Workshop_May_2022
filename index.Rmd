@@ -2,7 +2,7 @@
 title: "Managing Interoperability of Healthcare Data for Decision Analytics and Research"
 author: "JR Campbell, JC McClay, CR Geary, WS Campbell, & AJ Anzalone" 
 date: "Tuesday, May 24, 2022 8:00 AM - 12:30 PM CDT"
-site: bookdown::bookdown_site
+site: bookdown::https://unmc-crane.github.io/AMIA_Workshop_May_2022/
 documentclass: journal
 bibliography: [book.bib, packages.bib]
 url: https://unmc-crane.github.io/AMIA_Workshop_May_2022/
@@ -10,7 +10,7 @@ description: |
   This pamphlet provides background information, references, and documentation
   for materials covered in this workshop.
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo: UNMC-CRANE/AMIA_Workshop_May_2022
 ---
 
 # Introduction
