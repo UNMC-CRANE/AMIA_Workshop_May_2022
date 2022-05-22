@@ -1,0 +1,16 @@
+# Interoperable Use Cases for LAB RESULTS including COVID-19 and ANATOMIC PATHOLOGY
+
+This chapter provides references and resources for learning more about the interoperation of laboratory terminology and anaomtic pathology. 
+
+## LOINC
+* [LOINC](https://loinc.org/)
+  * LOINC publishes release twice annually and supports [downloads and browsing tools](https://loinc.org/search/)
+  * Browsing and term lookup available in [RELMA tool](https://loinc.org/relma/) and from the [LOINC website](https://loinc.org/search/)
+  * Frequency analysis of US lab results from our site included in handout material: [NEBRASKA_SEMANTIC_CODE_FREQUENCY.xlsx](https://github.com/UNMC-CRANE/AMIA_Workshop_May_2022/blob/main/Handouts/NEBRASKA_SEMANTIC_CODE_FREQUENCYfinal.xlsx)
+  * Structured Terminology Model of Meaning: [LOINCUsersGuide.pdf](https://github.com/UNMC-CRANE/AMIA_Workshop_May_2022/blob/main/Handouts/LOINCUsersGuide.pdf)
+
+## Synoptic Pathology 
+* College of American Pathologists [Cancer Protocol Templates](https://www.cap.org/protocols-and-guidelines/cancer-reporting-tools/cancer-protocol-templates)
+* [Nebraska Lexicon](https://www.unmc.edu/pathology-research/bioinformatics/campbell/tdc.html)
+
+

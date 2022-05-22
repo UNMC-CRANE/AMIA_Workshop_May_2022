@@ -1,0 +1,17 @@
+# Interoperable Use Cases for CONDITIONS and DIAGNOSES
+
+This chapter provides references and resources for learning more about patient condition diagnoses. 
+
+## Computable Phenotyping
+* [Electronic Health Records-Based Phenotyping](https://rethinkingclinicaltrials.org/chapters/conduct/electronic-health-records-based-phenotyping/electronic-health-records-based-phenotyping-introduction/)
+* [Richesson LR, Sun J, Pathak J, Kho AN, Denny JC.  Clinical Phenotyping in selected  national networsk: demonstrating the need for high-throughput, portable and computational methods.  Artif Intell Med. 2016 July; 71:57-61.](https://www.sciencedirect.com/science/article/pii/S0933365716300641?via%3Dihub)
+
+## Terminologies
+* [ICD-10 CM](https://www.cms.gov/medicare/icd-10/2022-icd-10-cm)
+  * [Tabular browser view download](https://ftp.cdc.gov/pub/health_statistics/nchs/publications/ICD10CM/2022/icd10cm_tabular_2022.pdf)
+  * [Alpha browsing tool](https://icd10cmtool.cdc.gov/)
+  * Available from [CMS](https://www.cms.gov/medicare/icd-10/2022-icd-10-cm) or [CDC](https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2022/)
+
+* [SNOMED CT](https://www.snomed.org/)
+  * [SNOMED CT Browser](https://browser.ihtsdotools.org/)
+  * Downloads of SNOMED International + US Extension available twice yearly (March and September) from [NLM terminology services](https://uts.nlm.nih.gov/uts/)

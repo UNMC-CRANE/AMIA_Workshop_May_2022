@@ -1,0 +1,25 @@
+# Interoperable Use Cases for VITALS, CLINICAL ASSESSMENTS, NURSING ASSESSMENTS and SOCIAL DETERMINANTS OF HEALTH
+
+This chapter provides references and resources for learning more about the interoperation of vitals, assessments, and social determinants of health (SDOH). 
+
+# Assessments
+* [LOINC](https://loinc.org/)
+* [SNOMED CT](https://www.snomed.org/)
+# Social Determinants of Health (SDOH)
+
+* [Healthy People 2030](https://health.gov/healthypeople/objectives-and-data/social-determinants-health)
+* Efforts made to standardize SDOH data elements:
+  * [World Health Organization](https://www.who.int/health-topics/social-determinants-of-health#tab=tab_1)
+  * [The Gravity Project](https://thegravityproject.net/)
+  * [USCDI](https://www.healthit.gov/isa/uscdi-data-class/social-determinants-health)
+  * Research Networks
+    * [OHDSI Health Equity Workgroup](https://github.com/OHDSI/HealthEquityWG)
+    * [N3C SDOH Domain Team](https://covid.cd2h.org/social-determinants)
+  * Regional and National Measures and Indices
+    * US Census [American Community Survey](https://www.census.gov/programs-surveys/acs)
+    * Wisconsin [Area Deprivation Index](https://www.neighborhoodatlas.medicine.wisc.edu/)
+    * CDC [Social Vulnerability Index](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html)
+    * [BIRD Index](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3432399/)
+    * USDA ERS [Rural Urban Commuting Area (RUCA) Codes](https://www.ers.usda.gov/data-products/rural-urban-commuting-area-codes/documentation/)
+    * USDA [Food Environment Atlas](https://www.ers.usda.gov/data-products/food-environment-atlas/)
+
