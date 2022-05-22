@@ -6,7 +6,7 @@ bookdown::gitbook:
         <li><a href="./">Managing Interoperability of Healthcare Data for Decision Analytics and Research</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
+    edit: https://github.com/UNMC-CRANE/AMIA_Workshop_May_2022/edit/main/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:

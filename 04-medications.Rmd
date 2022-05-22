@@ -1,0 +1,19 @@
+# Interoperable Use Cases for MEDICATION ORDERS, MEDICATION ADMINISTRATION and DRUG ALLERGIES
+
+This chapter provides references and resources for learning more about the interoperation of medication orders, medication administration, and drug allergies. 
+
+## RxNorm
+* First published by NLM in 2002 as [UMLS project for standardized nomenclature for US clinical drugs](https://www.nlm.nih.gov/research/umls/rxnorm/index.html)
+* Downloads available at [UMLS Terminology Services](https://uts.nlm.nih.gov/uts/)
+* Browsing supported by [RxNav](https://mor.nlm.nih.gov/RxNav/) for terms and semantic network
+* [RxNav-in-a-Box](https://lhncbc.nlm.nih.gov/RxNav/applications/RxNav-in-a-Box.html) supports local-installable Docker version of all APIs and allows updating of all RXNorm data files
+* [RxClass API](https://lhncbc.nlm.nih.gov/RxNav/applications/RxClassIntro.html) supports maps to drug classification schemes
+* Handouts: [RXNORM_NDC_RELATIONSHIPS_20220501.zip](https://github.com/UNMC-CRANE/AMIA_Workshop_May_2022/blob/main/Handouts/RXNORM_NDC_RELATIONSHIPS_20220501.zip)
+
+
+## National Drug Codes (NDC)
+* Database maintained by the FDA and reported in [RxNav](https://mor.nlm.nih.gov/RxNav/) which requires manufacturers to report all drugs manufactured, prepared, propagated, compounded or processed for sale in the US
+* Handouts: [RXNORM_NDC_RELATIONSHIPS_20220501.zip](https://github.com/UNMC-CRANE/AMIA_Workshop_May_2022/blob/main/Handouts/RXNORM_NDC_RELATIONSHIPS_20220501.zip)
+
+
+

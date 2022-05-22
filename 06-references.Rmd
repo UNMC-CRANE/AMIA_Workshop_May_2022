@@ -1,0 +1,20 @@
+# References 
+
+**Selected references from this workhop include:**
+
+1. The Learning Healthcare System.  Ed: LeeAnne Olsen, Dara Aisner, Michael McGinnis. Institute of Medicine, National Academy of Sciences 2007
+2. Lehmann HP, Downs SM. Desiderata for sharable computable biomedical knowledge for learning health systems. Learn Health Syst. 2018;2(4):e10065. https://onlinelibrary.wiley.com/doi/full/10.1002/ lrh2.10065.
+3. OHDSI. The Book of OHDSI: Observational Health Data Sciences and Informatics. OHDSI; 2021.
+4. Yu Y, Zong N, Wen A, et al. Developing an ETL tool for converting the PCORnet CDM into the OMOP CDM to facilitate the COVID-19 data integration. J Biomed Inform. 2022;127:104002. doi:10.1016/j.jbi.2022.104002
+5. Richesson LR, Sun J, Pathak J, Kho AN, Denny JC.  Clinical Phenotyping in selected  national networsk: demonstrating the need for high-throughput, portable and computational methods.  Artif Intell Med. 2016 July; 71:57-61.
+6. Cimino-J. Desiderata for Controlled Medical Vocabularies in the Twenty-First Century. Methods Information in Medicine. 1998 Nov; 37(4-5):394-403.
+7. Bodenreider O, Cornet R, Vreeman DJ. Recent developments in clinical terminologies SNOMED CT, LOINC and RxNorm.  Yearbook Med Inform 2018;27(1):129-139.
+8. Teasdale G, Jennett B. Assessment of coma and impaired consciousness. Lancet 1974; 81-84. 
+9. Teasdale G, Jennett B. Assessment and prognosis of coma after head injury. Acta Neurochir 1976; 34:45-55. 
+10. Westra, Bonnie L., et al. "Validation and refinement of a pain information model from EHR flowsheet data." Applied clinical informatics. 9.01 (2018): 185-198.
+11. Healthy People 2030, U.S. Department of Health and Human Services, Office of Disease Prevention and Health Promotion. Retrieved [08 May 2022], from https://health.gov/healthypeople/objectives-and-data/social-determinants-health
+12. McClure et al. Gender harmony: improved standards to support affirmative care of gender-marginalized people through inclusive gender and sex representation [published correction appears in J Am Med Inform Assoc. 2021 Nov 25;:]. J Am Med Inform Assoc. 2022;29(2):354-363. doi:10.1093/jamia/ocab196
+
+
+
+
