@@ -14,7 +14,7 @@ for materials covered in this workshop.</p>" />
   
   <meta property="og:description" content="<p>This pamphlet provides background information, references, and documentation
 for materials covered in this workshop.</p>" />
-  <meta name="github-repo" content="rstudio/bookdown-demo" />
+  <meta name="github-repo" content="UNMC-CRANE/AMIA_Workshop_May_2022" />
 
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="7 Assessments | Managing Interoperability of Healthcare Data for Decision Analytics and Research" />
@@ -51,6 +51,7 @@ for materials covered in this workshop.</p>" />
 
 
 
+
 <link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
 <link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
@@ -58,7 +59,6 @@ for materials covered in this workshop.</p>" />
 
 
 
-<link rel="stylesheet" href="style.css" type="text/css" />
 </head>
 
 <body>
@@ -169,6 +169,7 @@ for materials covered in this workshop.</p>" />
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -195,10 +196,7 @@ gitbook.start({
 "family": "sans",
 "size": 2
 },
-"edit": {
-"link": "https://github.com/UNMC-CRANE/AMIA_Workshop_May_2022/edit/main/05-assessments.Rmd",
-"text": "Edit"
-},
+"edit": null,
 "history": {
 "link": null,
 "text": null
@@ -207,14 +205,19 @@ gitbook.start({
 "link": null,
 "text": null
 },
-"download": ["_main.pdf", "_main.epub"],
+"download": ["_main.pdf"],
 "search": {
-"engine": "fuse",
+"engine": "lunr",
 "options": null
 },
 "toc": {
-"collapse": "subsection"
-}
+"collapse": "subsection",
+"scroll_highlight": true
+},
+"toolbar": {
+"position": "fixed"
+},
+"info": true
 });
 });
 </script>
