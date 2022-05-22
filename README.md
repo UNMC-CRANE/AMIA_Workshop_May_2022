@@ -1,13 +1,5 @@
-Welcome! 
+# Introduction to semantic interoperability; Top-level ontologies for the US domain
 
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). 
+This four-hour workshop for the advanced participant will promote interoperability and analytics in healthcare datamarts being developed and implemented for decision support, research and public health. It will guide the participant in implementing the guidelines of the ONC Interoperability Standards Advisory(ISA). The workshop team will employ their research and experience with HL7 and SNOMED CT to demonstrate the integration of SNOMED CT, LOINC and RxNORM as domain ontologies integrated with FHIR resources. Using a series of use cases taken from implementation of research network datamarts, they will present and discuss the relevant ISA specifications, and the associated ontology standards, some being developed at Nebraska. For each use case they will highlight any ambiguities in the ONC specifications and discuss the decisions to be made relative to deploying the semantics of the reference domain standards. They will present resources for managing and implementing relevant ONC sanctioned ontologies within the ISA model, including an integrated ontology of SNOMED-LOINC-RXNORM developed and published as terminology resources by Nebraska. Special attention will be focused on addressing problem areas of translational research that require integration of reference domain standards to bridge laboratory medicine, pathology, microbiology, genomics and patient phenomics. Each use case will be accompanied by demonstration of the data analytic utility of ontologies for extraction of meaningful knowledge from the EHR. Participants will conclude the workshop with an understanding of and access to a set of open source resources and tools for binding, integrating and maintaining the ontologies at their own institutions.
 
-This template provides a skeleton file structure that you can edit to create your book. 
-
-The contents inside the .Rmd files provide some pointers to help you get started, but feel free to also delete the content in each file and start fresh.
-
-Additional resources:
-
-The **bookdown** book: https://bookdown.org/yihui/bookdown/
-
-The **bookdown** package reference site: https://pkgs.rstudio.com/bookdown
+To view the resources developed for this workshop, please view the workshop pamphlet [here](https://unmc-crane.github.io/AMIA_Workshop_May_2022/).

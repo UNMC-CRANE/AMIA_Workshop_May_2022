@@ -1,6 +1,6 @@
 --- 
 title: "Managing Interoperability of Healthcare Data for Decision Analytics and Research"
-author: "JR Campbell,JC McClay,CR Geary, WS Campbell, & AJ Anzalone" 
+author: "JR Campbell, JC McClay, CR Geary, WS Campbell, & AJ Anzalone" 
 date: "Tuesday, May 24, 2022 8:00 AM - 12:30 PM CDT"
 site: bookdown::bookdown_site
 documentclass: journal
