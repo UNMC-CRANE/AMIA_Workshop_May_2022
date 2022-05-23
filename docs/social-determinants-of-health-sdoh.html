@@ -14,7 +14,7 @@ for materials covered in this workshop.</p>" />
   
   <meta property="og:description" content="<p>This pamphlet provides background information, references, and documentation
 for materials covered in this workshop.</p>" />
-  <meta name="github-repo" content="rstudio/bookdown-demo" />
+  <meta name="github-repo" content="UNMC-CRANE/AMIA_Workshop_May_2022" />
 
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="8 Social Determinants of Health (SDOH) | Managing Interoperability of Healthcare Data for Decision Analytics and Research" />
@@ -23,7 +23,7 @@ for materials covered in this workshop.</p>" />
 for materials covered in this workshop.</p>" />
   
 
-<meta name="author" content="JR Campbell,JC McClay,CR Geary, WS Campbell, &amp; AJ Anzalone" />
+<meta name="author" content="JR Campbell, JC McClay, CR Geary, WS Campbell, &amp; AJ Anzalone" />
 
 
 
@@ -51,6 +51,7 @@ for materials covered in this workshop.</p>" />
 
 
 
+
 <link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
 <link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
@@ -58,7 +59,6 @@ for materials covered in this workshop.</p>" />
 
 
 
-<link rel="stylesheet" href="style.css" type="text/css" />
 </head>
 
 <body>
@@ -132,6 +132,7 @@ for materials covered in this workshop.</p>" />
             <section class="normal" id="section-">
 <div id="social-determinants-of-health-sdoh" class="section level1 hasAnchor" number="8">
 <h1><span class="header-section-number">8</span> Social Determinants of Health (SDOH)<a href="social-determinants-of-health-sdoh.html#social-determinants-of-health-sdoh" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>Social Determinants of Health (SDOH) can be deployed at the patient-level or community-level. The resources below provide a framework for deploying and maintaining terminology relevant to SDOH. Deploying SDOH data elements at the community level requires person-level geocoding. We describe one option <a href="https://karush.com/Blog/DeGAUSS">here using the open-source DeGAUSS package</a>, courtesy of Jim Svoboda, MS.</p>
 <ul>
 <li><a href="https://health.gov/healthypeople/objectives-and-data/social-determinants-health">Healthy People 2030</a></li>
 <li>Efforts made to standardize SDOH data elements:
@@ -167,6 +168,7 @@ for materials covered in this workshop.</p>" />
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -193,10 +195,7 @@ gitbook.start({
 "family": "sans",
 "size": 2
 },
-"edit": {
-"link": "https://github.com/UNMC-CRANE/AMIA_Workshop_May_2022/edit/main/06-assessments.Rmd",
-"text": "Edit"
-},
+"edit": null,
 "history": {
 "link": null,
 "text": null
@@ -205,14 +204,19 @@ gitbook.start({
 "link": null,
 "text": null
 },
-"download": ["_main.pdf", "_main.epub"],
+"download": ["_main.pdf"],
 "search": {
-"engine": "fuse",
+"engine": "lunr",
 "options": null
 },
 "toc": {
-"collapse": "subsection"
-}
+"collapse": "subsection",
+"scroll_highlight": true
+},
+"toolbar": {
+"position": "fixed"
+},
+"info": true
 });
 });
 </script>

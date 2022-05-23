@@ -2,10 +2,13 @@
 
 This chapter provides references and resources for learning more about the interoperation of vitals, assessments, and social determinants of health (SDOH). 
 
-# Assessments
+## Assessments
 * [LOINC](https://loinc.org/)
 * [SNOMED CT](https://www.snomed.org/)
-# Social Determinants of Health (SDOH)
+
+## Social Determinants of Health (SDOH)
+
+Social Determinants of Health (SDOH) can be deployed at the patient-level or community-level. The resources below provide a framework for deploying and maintaining terminology relevant to SDOH. Deploying SDOH data elements at the community level requires person-level geocoding. We describe one option [here using the open-source DeGAUSS package](https://karush.com/Blog/DeGAUSS), courtesy of Jim Svoboda, MS. 
 
 * [Healthy People 2030](https://health.gov/healthypeople/objectives-and-data/social-determinants-health)
 * Efforts made to standardize SDOH data elements:
