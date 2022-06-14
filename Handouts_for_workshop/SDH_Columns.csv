@@ -1,4 +1,5 @@
 "CODE","DESCRIPTION","SNOMED"
+"ADI_NATRANK","Wisconsin [Scale score] for Neighborhood Deprivation Index for community where patient resides (observable entity)","727461000004105"
 "BIRD_INDEX","Bird Index [Scale Score] for Community Stress in community where patient resides from DoC ACS data?","727441000004106"
 "CRANE_1","[Number fraction] of households in community where patient resides receiving public  assistance income or FOOD STAMPS/SNAP in past 12 months from DoC ACS data?","727251000004107"
 "CRANE_10","[Number Fraction] of workers over 16 years whose means of transportation is public transportation excluding taxicab in community where patient resides from DoC ACS data?","727881000004102"
